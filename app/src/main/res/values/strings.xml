@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">jetpack-compose</string>
+    <string name="title_activity_money_update">MoneyUpdateActivity</string>
 </resources>
